@@ -17,3 +17,5 @@ Welcome to my robotics and AI projects.
 
 ## Goal
 Creating futuristic and useful technology projects.
+
+Screenshot_20260426-203115_Gallery.jpg
